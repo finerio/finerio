@@ -1,16 +1,29 @@
-### Hi there 👋
+### My Profile
 
 <!--
 **finerio/finerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello there,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my github profile.
+
+My name is Ariel, born and raised in Israel, located in Amsterdam, The Netherlands.
+
+I'm in the process of graduating from a very intensive full stack web development course (more details will be shared on a later date...)
+
+Before that, worked for HP for many years, initially as a SW developer (C++ under Windows, InstallShield, Perl) and later as an Application Support Engineer and Trainer.
+
+# LinkedIn:
+
+www.linkedin.com/in/ariel-shadmon-0256316
+
+# email:
+
+ariel.shadmon@gmail.com
+
+# Graduation Project:
+
+(to be shared when ready)
+
+Thanks,
+Ariel
