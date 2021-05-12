@@ -5,13 +5,11 @@
 
 Hello there,
 
-Thanks for visiting my github profile.
-
 My name is Ariel, born and raised in Israel, located in Amsterdam, The Netherlands.
 
 I'm in the process of graduating from a very intensive full stack web development course (more details will be shared on a later date...)
 
-Before that, worked for HP for many years, initially as a SW developer (C++ under Windows, InstallShield, Perl) and later as an Application Support Engineer and Trainer.
+Before that, I worked for HP for many years, initially as a SW developer (C++ under Windows, InstallShield, Perl) and later as an Application Support Engineer and Trainer.
 
 # LinkedIn:
 
