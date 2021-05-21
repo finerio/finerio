@@ -21,7 +21,7 @@ ariel.shadmon@gmail.com
 
 # Graduation Project:
 
-(to be shared when ready)
+https://paleboard.netlify.app/
 
 Thanks,
 Ariel
