@@ -13,7 +13,7 @@ Before that, I worked for HP for many years, initially as a SW developer (C++ un
 
 # LinkedIn:
 
-www.linkedin.com/in/ariel-shadmon-0256316
+www.linkedin.com/in/ariel-shadmon
 
 # email:
 
